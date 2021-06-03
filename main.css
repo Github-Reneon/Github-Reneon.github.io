@@ -1,6 +1,18 @@
-.body{
-	color: white;
-	background-color: #A9A9A9;
+body{
+	font-family: Garamond, serif;
+	background-color: #124E78;
+	color: #F0F0C9;
 }
 
+.profile-pic{
+	width: 100px;
+}
 
+.title{
+	font-size: 30px;
+	text-align: end;
+}
+
+.title-bar{
+	background-color: #6E0E0A;
+}
